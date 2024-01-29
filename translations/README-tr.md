@@ -510,7 +510,7 @@ Kodları beyaz tahtaya ya da kağıda yazın, bilgisayara değil. Örnek girdile
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 ## Veri Yapıları
 
@@ -1254,7 +1254,7 @@ Graflar, bilgisayar bilimlerinde birçok sorunu temsil etmek için kullanılabil
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (46 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 videos):
     - [Videos](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
@@ -1390,20 +1390,20 @@ Have a story, not just data, about something you accomplished.
 - [General Interview Questions and their Answers](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
 
-## Have questions for the interviewer
+## Mülakatı yapan kişiye muhakkak sorularınız olsun
 
-    Some of mine (I already may know answer to but want their opinion or team perspective):
+    Benim bazı sorularım (cevabını bilsem de onların görüşünü veya takımın bakış açısını isteyebilirim):
 
-- How large is your team?
-- What does your dev cycle look like? Do you do waterfall/sprints/agile?
-- Are rushes to deadlines common? Or is there flexibility?
-- How are decisions made in your team?
-- How many meetings do you have per week?
-- Do you feel your work environment helps you concentrate?
-- What are you working on?
-- What do you like about it?
-- What is the work life like?
-- How is work/life balance?
+- Takımınız kaç kişi?
+- Geliştirici döngüsü nasıl? Waterfall/sprints/agile olarak mı çalışıyorsunuz?
+- Teslim tarihlerine yetişmeye çalışma yaygın mıdır? Yoksa esneklik mevcut mu?
+- Takımınızda kararlar nasıl verilir? 
+- Haftada kaç toplantınız oluyor?
+- İş ortamınız odaklanmanıza yardımcı oluyor mu?
+- Neyin üzerinde çalışıyorsunuz?
+- İşinizle ilgili neyi seviyorsunuz?
+- İş hayatı nasıldır?
+- İş yaşam dengesi nasıldır?
 
 
 ## Once You've Got The Job
