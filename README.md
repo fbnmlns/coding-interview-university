@@ -628,10 +628,10 @@ if you can identify the runtime complexity of different algorithms. It's a super
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [ ] Implement (I did with tail pointer & without):
-        - [ ] size() - returns the number of data elements in the list
-        - [ ] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
+        - [x] size() - returns the number of data elements in the list
+        - [x] empty() - bool returns true if empty
+        - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [x] push_front(value) - adds an item to the front of the list
         - [ ] pop_front() - remove the front item and return its value
         - [ ] push_back(value) - adds an item at the end
         - [ ] pop_back() - removes end item and returns its value
