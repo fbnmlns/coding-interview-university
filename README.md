@@ -652,7 +652,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [x] Will not implement. Implementing with the array is trivial
 
 - ### Queue
-    - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+    - [x] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)
     - [ ] Implement using linked-list, with tail pointer:
